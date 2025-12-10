@@ -1,4 +1,4 @@
-# Pizza Place Business System
+# Pizza Place Business System 
 
 ## Description
 
@@ -34,3 +34,11 @@ A robust terminal-based application designed to streamline operations for a pizz
    ```
 
 4. Follow the on-screen prompts to navigate the menu and process orders.
+
+
+## License
+
+MIT License
+
+made by Monometra
+
